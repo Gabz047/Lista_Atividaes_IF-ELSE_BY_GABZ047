@@ -1,0 +1,11 @@
+<meta charset="UTF-8">
+<script>
+    /*
+Uma barra de chocolate está sendo dividida entre amigos e cada mordida equivale a 5% da barra, sendo que cada pessoa dá apenas uma mordida.
+
+Faça um script que pergunte quantos amigos tem para dividir o chocolate. Caso o chocolate for suficiente para todos, o programa deverá apresentar uma mensagem dizendo
+que o chocolate foi suficiente para todos e quantas mordidas ainda sobraram. Caso o chocolate não seja suficiente para todos, o programa deverá apresentar uma mensagem
+dizendo que o chocolate não foi suficiente para todos e quantos ficaram sem seu pedaço.
+    */
+
+</script>
