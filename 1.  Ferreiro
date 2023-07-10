@@ -1,0 +1,13 @@
+<meta charset="UTF-8">
+<script>
+
+/*
+// Um ferreiro precisa de 70 cm cúbicos de ferro derretido para fazer um molde de espada de tamanho normal e 120 cm cúbicos para fazer uma espada grande. Para fazer um
+machado ele precisa de 65 cm cúbicos e para fazer uma ponta de lança precisa-se de 37 cm cúbicos de ferro. Cada cm cúbico de ferro custa R$8,50
+
+Faça um script que pergunte quanto de dinheiro a pessoa possui e qual vai ser a arma desejada. Caso a pessoa possua dinheiro suficiente, o programa deverá apresentar o
+valor final, a arma escolhida e quanto de dinheiro sobrou. Caso não tenha o dinheiro suficiente, informe que
+não será possível pagar pela arma desejada e quanto de dinheiro que falta.
+*/
+
+</script>
