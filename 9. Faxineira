@@ -1,0 +1,10 @@
+<meta charset="UTF-8">
+<script>
+    /*
+Uma faxineira cobra um certo valor para limpar uma casa, esse valor pode variar devido ao tamanho da casa. Uma casa pequena ela cobra 50 Reais, Uma casa grande ela 
+cobra 200 Reais e uma casa gigante ela cobra 450 Reais.
+
+Faça um script que pergunte o tamanho da casa da pessoa. Ao final o programa deverá apresentar o preço que a faxineira irá cobrar.
+    */
+
+</script>
