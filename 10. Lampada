@@ -1,0 +1,9 @@
+<meta charset="UTF-8">
+<script>
+    /*
+Uma lampada fica acesa dependendo do horário do dia, se estiver de manhã ela fica desligada, a tarde fica desligada também, a noite ela fica ligada e de madrugada fica
+ligada também.
+
+Faça um script que pergunte qual o horário do dia, ex: tarde, noite, dia e etc.. Ao final o programa deverá apresentar se a lampada está acesa ou apagada.
+    */
+</script>
