@@ -1,0 +1,9 @@
+<meta charset="UTF-8">
+<script>
+/*
+Uma Malharia deseja fazer uma média do faturamento líquido. As taxas cobradas em cima do faturamento Bruto são: ICMS de 14% e ISS de 4%.
+
+Faça um script que pergunte o preço do produto vendido, que no caso é o fio de tecido. Outro que pergunte quantos foram vendidos durante o mês. Após descobrir o faturamnto
+bruto, calcule sobre todas as taxas cobradas acima, o faturamento líquido. Ao final o programa deverá apresentar o faturamento líquido da empresa.
+*/
+</script>
