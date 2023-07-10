@@ -1,0 +1,16 @@
+<meta charset="UTF-8">
+<script>
+
+    /*
+    
+Um Laboratório fábrica remédios para farmácias todo mês. Cada caixa de remédio vem com 40 frascos. Cada remédio tem sua taxa de exportação. O preço do Benzetacil
+é de R$25  para cada frasco com uma taxa de 3% em cima do preço da caixa desse remédio. O preço do paracetamol é de R$15 para cada frasco com uma taxa de 2% em cima
+do preço da caixa desse remédio. O preço do dipirona é de R$35 para cada frasco, com uma taxa de 7% em cima do preço da caixa desse remédio.
+
+Faça um script que pergunte qual o remédio desejado em qual a quantidade de caixas desejadas. Ao final o programa deverá apresentar qual o
+remédio escolhido, a quantidade de caixas que foi pedido e o peço total.
+
+    */
+
+</script>
+
