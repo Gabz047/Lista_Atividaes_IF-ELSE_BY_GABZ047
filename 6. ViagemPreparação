@@ -1,0 +1,12 @@
+<meta charset="UTF-8">
+<script>
+    /*
+Uma pessoa está se preparando para uma viagem e está fazendo uma lista de coisas que precisa levar, ela só sairá de casa se estiver com tudo dentro da mala. As coisas
+que precisa são: roupas, calçados, produtos de higiene pessoal, carregador e presente para sogra.
+
+Faça um script que pergunte se cada item já está dentro da mala, se todos os itens já estiverem dentro da mala, o programa deverá apresntar a seguinte mensagem: "Tudo
+pronto para ir, boa viagem!". Caso falte algum item dentro da mala, o programa deverá apresentar uma mensagem dizendo que não pode sair de viagem ainda e apresentar o que
+falta.
+    */
+
+</script>
