@@ -1,0 +1,12 @@
+<meta charset="UTF-8">
+<script>
+    /*
+Uma professora está querendo saber se todos os alunos estão presentes dentro da sala. O total de alunos são de 30.
+
+Faça um script que pergunte quantos alunos há dentro de sala, caso todos estiverem, o programa deverá apresentar uma mensagem dizendo que todos os alunos estão em sala
+e aula pode ser iniciada agora.
+Caso ainda falte alunos, o programa deverá apresentar quantos alunos faltam e apresentar uma mensagem dizendo que a professora ainda deve esperar 15 minutos até todos
+chegarem.
+    */
+
+</script>
