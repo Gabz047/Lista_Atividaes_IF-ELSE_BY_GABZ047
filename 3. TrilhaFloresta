@@ -1,1 +1,11 @@
+<meta charset="UTF-8">
+<script>
+    /*
+Uma pessoa está fazendo uma trilha na floresta, e a cada 10 metros ela joga um pedaço de pão no chão, sendo que cada pedaço equivale a 10% do pão
 
+Faça um script que pergunte o tamanho da trilha e quantos pães ele tem. Caso a pessoa tiver pães o suficiente para realizar tal atividade, o programa devera apresentar
+quantos pedaços de pão foram gastos e quantos ainda sobraram. Caso ele não tenha pão suficiente, o programa deverá apresentar uma mensagem indicando que a quantidade
+é insuficiente e deverá também mostra de quanto ele ainda precisará.
+    */
+
+</script>
